@@ -49,15 +49,8 @@ h1, h2 {
 
 /* hero image */
 
-#hero-outer {
-    
-    width: 100%;
-    overflow: hidden;
-}
-
-#hero-image {
+#hero {
+    background: url(../images/hero1.jpg) no-repeat center center;
+    background-size: cover;
     height: 600px;
-    width: 100%;
-    background: url(../images/hero-image-edit.jpg) no-repeat center center;
-    position: relative;
 }
