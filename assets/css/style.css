@@ -23,15 +23,15 @@ h1, h2 {
 
 /* nav bar */
 
-
 #menu {
+    position: fixed;
     font-size:inherit;
     font-weight: inherit;
     letter-spacing: 2px;
     text-align: center;
     text-transform: uppercase;
     margin-left: 575px;
-    padding-top: 20px;
+
 }
 
 
@@ -39,18 +39,26 @@ h1, h2 {
     float: left;
     list-style-type: none;
     text-align: center;
-    margin-right: 15px;   
+    margin-right: 15px;    
 }
+
+
 
 #menu a {
     text-decoration: none;
     color: inherit;
 }
 
+
+
+
 /* hero image */
 
 #hero {
-    background: url(../images/hero1.jpg) no-repeat center center;
+    background: url(../images/hero1.jpg) no-repeat center content-box; 
     background-size: cover;
     height: 600px;
+    
+    
 }
+
