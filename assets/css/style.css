@@ -1,12 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rokkitt:wght@300&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 
 body {
     font-family: rokkitt, sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    letter-spacing: 1px;
 }
 
 h1, h2 {
     font-family: roboto, sans-serif;
-    font-weight: 650;
-    font-size: 500%;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 1px;
+    color: black;
+}
+
+/* nav bar */
+
+
+#menu {
+    font-size:inherit;
+    font-weight: inherit;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 50px;
+    margin-left: 400px;
+    
+    
+}
+
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    text-align: center;
+    margin-right: 100px;
+    
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
 }
