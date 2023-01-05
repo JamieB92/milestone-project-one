@@ -22,6 +22,8 @@ h1, h2 {
     color: black;
 }
 
+
+
 /* nav bar */
 
 #menu {
@@ -61,18 +63,32 @@ h1, h2 {
 }
 
 
-/* Discover Section */
+/* Discover, Explore Section */
 
 #disc {
+    float: left;
     height: 200px;
-    width: 50%;
-    display: inline-block;
+    width: 30%;
+    padding: 10px 20px 10px 20px;
+    
 }   
 
+#explore {
+    float: right;
+    height: 200px;
+    width: 30%;
+    padding: 10px 20px 10px 20px;
+    margin-right: 20px;
+}
+
+#disc > h2 {
+    padding-bottom: 15px;
+}
 
 .border{
-    text-align: left;
+    
     border-style: double;
     border-color: black;
     border-width: thick;
-}    
+    margin-left: 20px;
+}
