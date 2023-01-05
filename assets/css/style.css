@@ -76,7 +76,6 @@ h2 {
 
 #disc {
     float: left;
-    height: 200px;
     width: 30%;
     padding: 10px 20px 10px 20px;
     
@@ -84,7 +83,6 @@ h2 {
 
 #explore {
     float: right;
-    height: 200px;
     width: 30%;
     padding: 10px 20px 10px 20px;
     margin-right: 20px;
