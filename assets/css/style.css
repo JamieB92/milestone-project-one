@@ -65,10 +65,9 @@ h2 {
 /* hero image */
 
 #hero {
-    background: url(../images/hero1.jpg) no-repeat center content-box; 
-    background-size: cover;
-    height: 600px;
-    padding-bottom: 100px;
+    
+    max-width: 100%;
+    height: auto;
 }
 
 
@@ -97,3 +96,8 @@ h2 {
     border-width: thick;
     margin-left: 20px;
 }
+
+
+
+/*media*/
+
