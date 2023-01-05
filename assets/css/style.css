@@ -22,9 +22,18 @@ h1, h2 {
     color: black;
 }
 
+h2 {
+    padding-bottom: 15px;
+}
 
 
-/* nav bar */
+/*nav bar */
+
+#navbord {
+    border-style: dashed;
+    background-color: aliceblue;
+    border-width: thick;
+}
 
 #menu {
     position: fixed;
@@ -33,7 +42,7 @@ h1, h2 {
     text-transform: uppercase;
     margin-left: 575px;
     margin-top: 25px;
-}
+}    
 
 
 #menu li {
@@ -81,9 +90,7 @@ h1, h2 {
     margin-right: 20px;
 }
 
-#disc > h2 {
-    padding-bottom: 15px;
-}
+
 
 .border{
     
