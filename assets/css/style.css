@@ -38,7 +38,7 @@ h2 {
 }    
 
 .nav-links a {
-    color: #fff;
+    color:  black;
     text-decoration: none;
 }
 
@@ -51,6 +51,11 @@ h2 {
 .menu li {
     padding: 5px 15px;
     list-style: none;
+}
+
+.menu li:hover  {
+    background-color: white;
+    opacity: 0.1;
 }
 
 /* hero image */
@@ -104,7 +109,7 @@ h2 {
     
     .menu {
         flex-direction: column;
-        justify-content: leftS;
+        justify-content: left;
         font-size: 22px;
         gap: 5px;
     }
