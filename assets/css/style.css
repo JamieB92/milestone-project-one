@@ -27,40 +27,32 @@ h2 {
 }
 
 
-/*nav bar */
+/* Navbar */
 
-#navbord {
-    border-style: dashed;
-    background-color: aliceblue;
-    border-width: thick;
-}
-
-#menu {
-    position: fixed;
-    letter-spacing: 2px;
-    text-align: center;
-    text-transform: uppercase;
-    margin-left: 575px;
-    margin-top: 25px;
+.navbar {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    color: #fff;  
 }    
 
-
-#menu li {
-    float: left;
-    list-style-type: none;
-    text-align: center;
-    margin-right: 15px;
-    font-size:inherit;
-    font-weight: inherit;    
-}
-
-
-#menu a {
+.nav-links a {
+    color: #fff;
     text-decoration: none;
-    color: inherit;
-    
 }
 
+.menu {
+    display: flex;
+    gap: 1em;
+    font-size: 20px;
+}
+
+.menu li {
+    padding: 5px 15px;
+    list-style: none;
+}
 
 /* hero image */
 
