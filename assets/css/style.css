@@ -30,7 +30,6 @@ h2 {
 /* Navbar */
 
 .navbar {
-    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -96,3 +95,19 @@ h2 {
 
 /*media*/
 
+@media (max-width: 480px) {
+     
+    .navbar {
+    justify-content: left;    
+    padding: 5px;    
+    }
+    
+    .menu {
+        
+        flex-direction: column;
+        justify-content: leftS;
+        font-size: 22px;
+        gap: 5px;
+        
+    }
+}
