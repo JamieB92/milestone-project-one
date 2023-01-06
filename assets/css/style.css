@@ -108,4 +108,10 @@ h2 {
         gap: 5px;
     }
 
+    /* About Sction Media */
+
+    .about {
+        flex-wrap: wrap;
+        font-size: 22px;
+    }
 }
