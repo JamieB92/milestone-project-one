@@ -67,21 +67,13 @@ h2 {
 
 /* Discover, Explore Section */
 
-#disc {
-    float: left;
-    width: 30%;
-    padding: 10px 20px 10px 20px;
-    
+ #disc {
+    padding: 10px 20px 10px 20px; 
 }   
 
 #explore {
-    float: right;
-    width: 30%;
-    padding: 10px 20px 10px 20px;
-    margin-right: 20px;
-}
-
-
+    padding: 10px 20px 10px 20px;    
+} 
 
 .border{
     
@@ -89,24 +81,31 @@ h2 {
     border-color: black;
     border-width: thick;
     margin-left: 20px;
+    margin-right: 20px; 
 }
 
+.about {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
 
 
 /*media*/
 
 @media screen and (max-width: 600px) {
-     .navbar {
+    
+    /* Nav Bar Media */
+    .navbar {
      justify-content: left;    
          
     }
     
     .menu {
-        
         flex-direction: column;
         justify-content: leftS;
         font-size: 22px;
         gap: 5px;
-        
     }
+
 }
