@@ -29,7 +29,7 @@ h2 {
 
 /* Navbar */
 
-.navbar {
+#navbar {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -105,21 +105,22 @@ h2 {
 @media screen and (max-width: 600px) {
     
     /* Nav Bar Media */
-    .navbar {
+    #navbar {
      justify-content: left;    
     }
     
     #icon {
-        display: inline-block;
+        display: block;
         position: relative;
     }
 
-    #fa-solid fa-bars:hover + .hidden {
+    #icon:hover + .hidden {
         display: inline-block;
     }
     
     .hidden {
         display: none;
+        
     }
     
     .menu {
