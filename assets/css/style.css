@@ -106,7 +106,7 @@ h2 {
     
     /* Nav Bar Media */
     #navbar {
-     justify-content: left;    
+     justify-content: left;   
     }
     
     #icon {
@@ -114,14 +114,23 @@ h2 {
         position: relative;
     }
 
-    #icon:hover + .hidden {
-        display: inline-block;
-    }
-    
     .hidden {
         display: none;
-        
+        position: absolute;
+        background-color: none;
+        min-width: 100px;
+        text-decoration: none;    
     }
+
+    .hidden a {
+        text-decoration: none;
+    }
+
+    .hidden li {
+        list-style: none;
+    }
+
+    #icon:hover .hidden {display: block;}
     
     .menu {
         flex-direction: column;
@@ -129,6 +138,7 @@ h2 {
         font-size: 22px;
         gap: 5px;
         display: none;
+        
     }
 
 
