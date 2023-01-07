@@ -109,36 +109,40 @@ h2 {
      justify-content: left;   
     }
     
+/* Drop Down Menu */
+
     #icon {
-        display: block;
-        position: relative;
+        display:flex;
+        flex-direction: row;
     }
 
     .hidden {
         display: none;
         position: absolute;
-        background-color: none;
+        background-color: RGBA(103, 103, 103, 0.6);
         min-width: 100px;
         text-decoration: none;    
     }
 
     .hidden a {
         text-decoration: none;
+        color:black
     }
-
+    
     .hidden li {
         list-style: none;
     }
 
     #icon:hover .hidden {display: block;}
     
+    /* Full Size Menu */
+
     .menu {
         flex-direction: column;
         justify-content: left;
         font-size: 22px;
         gap: 5px;
         display: none;
-        
     }
 
 
