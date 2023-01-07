@@ -63,13 +63,21 @@ h2 {
 }
 
 
-/* hero image */
+/* hero image and title */
+
+
+
+.title {
+    width: 500px;
+    z-index: 1;
+    background-color: none;
+    
+}
 
 .hero {
-    
     width: 100%;
     max-height: 1440px;
-    height: auto;
+    height: auto; 
 }
 
 
