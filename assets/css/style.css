@@ -38,6 +38,10 @@ h2 {
     font-size: 150%;
 }
 
+#mobile {
+    display: none;
+}
+
 #navbar {
     display: flex;
     float: right;
@@ -188,7 +192,12 @@ h2 {
         display: none;
     }
 
-    
+    #mobile {
+        display: flex;
+        float: left;
+        font-size: 30px;
+        margin-top: 20px;
+    }
 
     #icon {
         position: relative;
