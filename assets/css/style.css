@@ -123,12 +123,23 @@ h2 {
 }
 
 
+/* Footer */ 
+
+#f-border {
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    
+}
+
+.socials {
+    text-align: center;
+    padding-top: 10px;
+    gap: 10px;
+}
+
+
 /*media*/
-
-
-
-
-
 
 @media screen and (max-width: 730px) {
     
