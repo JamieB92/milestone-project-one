@@ -11,7 +11,7 @@ body {
     font-size: 20px;
     font-weight: 200;
     letter-spacing: 1px;
-    background-color: RGBA(103, 103, 103, 0.6);
+    background-color: #E8D8CA;
 }
 
 h1, h2 {
@@ -128,7 +128,7 @@ h2 {
 #f-border {
     height: 40px;
     width: 100%;
-    background-color: black;
+    background-color: RGBA(103, 103, 103);
     
 }
 
