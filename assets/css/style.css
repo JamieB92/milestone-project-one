@@ -38,7 +38,6 @@ h2 {
     font-size: 150%;
 }
 
-
 #navbar {
     display: flex;
     float: right;
@@ -188,6 +187,8 @@ h2 {
     #title {
         display: none;
     }
+
+    
 
     #icon {
         position: relative;
