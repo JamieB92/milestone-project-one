@@ -29,13 +29,18 @@ h2 {
 
 /* Navbar */
 
+
 #navbar {
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 20px;
     color: #fff;  
-}    
+}
+
+.nav-bord {
+    background-color: RGB(103, 103, 103,);
+}
 
 .nav-links a {
     color:  black;
