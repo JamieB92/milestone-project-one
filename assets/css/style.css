@@ -17,7 +17,7 @@ body {
 h1, h2 {
     font-family: roboto, sans-serif;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 50px;
     letter-spacing: 1px;
     color: black;
 }
@@ -35,6 +35,7 @@ h2 {
     float: left;
     display: flex;
     justify-content: center;
+    font-size: 150%;
 }
 
 
@@ -137,14 +138,14 @@ h2 {
 
     #icon {
         display:flex;
-        flex-direction: column; 
+        flex-direction: row-reverse; 
         padding-top: 27px;
         padding-right: 25px;
     } 
 
     .hidden {
+        float: right;
         display: none;
-        justify-content: right;
         min-width: 100px;
         text-decoration: none;    
     }
@@ -180,4 +181,16 @@ h2 {
     }
 
     
+}
+
+
+@media screen and (max-width:470px) {
+    #title {
+        display: none;
+    }
+
+    #icon {
+        position: relative;
+        margin-bottom: 27px;
+    }
 }
