@@ -27,15 +27,27 @@ h2 {
 }
 
 
-/* Navbar */
+/* Navbar and Title*/
+
+
+
+#title {
+    float: left;
+    display: flex;
+    justify-content: center;
+}
 
 
 #navbar {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 20px;
+    
     color: #fff;  
+}
+
+#title, .menu {
+    line-height: 75px;
 }
 
 .nav-bord {
@@ -68,16 +80,8 @@ h2 {
 }
 
 
-/* hero image and title */
+/* hero image */
 
-
-
-.title {
-    width: 500px;
-    z-index: 1;
-    background-color: none;
-    
-}
 
 .hero {
     width: 100%;
