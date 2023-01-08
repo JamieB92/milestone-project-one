@@ -157,15 +157,42 @@ h2 {
     height: 600px;
 }
 
-#left {
-    padding-top: 100px;
-    width:33%;
+#one {
+    display: flexbox;
     float: left;
+    padding: 15px 10px 15px 10px;
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
 
 }  
 
-#right {
+#one-two {
+    display: flexbox;
+    float: right;
+    padding: 15px 10px 15px 10px;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
 
+#two {
+    display: flexbox;
+    float: left;
+    padding: 15px 10px 15px 10px;
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+
+}
+
+#two-two {
+    display: flexbox;
+    float: right;
+    padding: 15px 10px 15px 10px;
+    width: 100px;
+    height: 50px;
+    background-color: red;
 }
 
 
