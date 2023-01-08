@@ -29,7 +29,9 @@ h2 {
 
 /* Navbar and Title*/
 
-
+#navs {
+    height: 100px;
+}
 
 #title {
     float: left;
@@ -86,6 +88,7 @@ h2 {
 }
 
 
+
 /* hero image */
 
 
@@ -123,6 +126,10 @@ h2 {
 }
 
 
+
+
+
+
 /* Footer */ 
 
 #f-border {
@@ -142,6 +149,26 @@ h2 {
     padding-left: 20px;
     color: black;
 }
+
+
+/* Mountains*/
+
+#mountains {
+    height: 600px;
+}
+
+#left {
+    padding-top: 100px;
+    width:33%;
+    float: left;
+
+}  
+
+#right {
+
+}
+
+
 
 
 /*media*/
