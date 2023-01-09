@@ -152,24 +152,20 @@ h2 {
 /* Mountains*/
 
 .mountains {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     height: 600px;
-    width: 100%;
+    width: 100%;   
 }
 
 .one {
-    display: flex;
-    flex-direction: row;
-    float: inline-start;
     width: 500px;
     height: 250px;
-    background-color: aqua;
-
+    background-color: aqua;    
 }  
 
 .one-two {
-    display: flex;
-    flex-direction: row;
-    float: inline-end;
     width: 500px;
     height: 250px;
     background-color: red;
