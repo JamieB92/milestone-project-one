@@ -151,47 +151,31 @@ h2 {
 
 /* Mountains*/
 
-#mountains {
+.mountains {
     height: 600px;
+    width: 100%;
 }
 
-#one {
-    display: flexbox;
-    float: left;
-    padding: 15px 10px 15px 10px;
-    width: 100px;
-    height: 50px;
+.one {
+    display: flex;
+    flex-direction: row;
+    float: inline-start;
+    width: 500px;
+    height: 250px;
     background-color: aqua;
 
 }  
 
-#one-two {
-    display: flexbox;
-    float: right;
-    padding: 15px 10px 15px 10px;
-    width: 100px;
-    height: 50px;
+.one-two {
+    display: flex;
+    flex-direction: row;
+    float: inline-end;
+    width: 500px;
+    height: 250px;
     background-color: red;
 }
 
-#two {
-    display: flexbox;
-    float: left;
-    padding: 15px 10px 15px 10px;
-    width: 100px;
-    height: 50px;
-    background-color: aqua;
 
-}
-
-#two-two {
-    display: flexbox;
-    float: right;
-    padding: 15px 10px 15px 10px;
-    width: 100px;
-    height: 50px;
-    background-color: red;
-}
 
 
 
