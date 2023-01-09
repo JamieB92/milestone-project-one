@@ -74,9 +74,7 @@ h2 {
     list-style: none;
 }
 
-.menu li:hover {
-    display: inline;
-}
+.menu li:hover  
 
 #icon {
     display: none;
