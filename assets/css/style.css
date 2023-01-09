@@ -31,6 +31,7 @@ h2 {
 
 #navs {
     height: 100px;
+    background-color: #bb9a83;
 }
 
 #title {
@@ -54,11 +55,6 @@ h2 {
 
 #title, .menu {
     line-height: 75px;
-}
-
-
-.nav-bord {
-    background-color: RGB(103, 103, 103,);
 }
 
 .nav-links a {
