@@ -74,10 +74,7 @@ h2 {
     list-style: none;
 }
 
-.menu li:hover  {
-    background-color: white;
-    opacity: 0.1;
-}
+.menu li:hover  
 
 #icon {
     display: none;
@@ -134,7 +131,7 @@ h2 {
 #f-border {
     height: 40px;
     width: 100%;
-    background-color: RGBA(103, 103, 103);
+    background-color: #bb9a83;
     
 }
 
