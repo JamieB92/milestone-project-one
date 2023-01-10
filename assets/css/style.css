@@ -165,9 +165,8 @@ h2 {
 }
 
 .one {
+    width: 800px;
     
-    width: 500px;
-    height: 250px;
     background-color: aqua;    
 }  
 
