@@ -155,17 +155,24 @@ h2 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    margin-top: 100px;
     height: 600px;
-    width: 100%;   
+    width: 100%; 
+    justify-content: space-evenly;
+   
+    
+    
 }
 
 .one {
+    text-align: right;
     width: 500px;
     height: 250px;
     background-color: aqua;    
 }  
 
 .one-two {
+    
     width: 500px;
     height: 250px;
     background-color: red;
