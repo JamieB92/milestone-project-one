@@ -131,6 +131,8 @@ h2 {
 /* Footer */ 
 
 #f-border {
+    position:fixed;
+    bottom: 0;
     height: 40px;
     width: 100%;
     background-color: #bb9a83;
