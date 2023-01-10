@@ -30,6 +30,9 @@ h2 {
 /* Navbar and Title*/
 
 #navs {
+    position: fixed;
+    top: 0;
+    width: 100%;
     height: 100px;
     background-color: #bb9a83;
 }
