@@ -161,13 +161,14 @@ h2 {
     height: 600px;
     width: 100%; 
     justify-content: space-evenly;
+    gap: 1em;
    
     
     
 }
 
 .one {
-    text-align: right;
+    
     width: 500px;
     height: 250px;
     background-color: aqua;    
