@@ -156,6 +156,7 @@ h2 {
 
 /* Mountains*/
 
+/* Container*/
 .mountains {
     display: flex;
     flex-direction: row;
@@ -167,9 +168,9 @@ h2 {
     gap: 1em;   
 }
 
+/* Image and text box */
 .one {
     width: 800px;
-    
     background-color: aqua;    
 }  
 
