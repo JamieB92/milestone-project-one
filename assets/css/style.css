@@ -190,10 +190,19 @@ h2 {
     text-align: center;
     background-color: rgba(182, 143, 127, 0.4);
     box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
-    border-radius: 20px;
-    
+    border-radius: 20px;  
 }
 
+/* Explore Page */
+
+.intro {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    width: 100%;
+    height: 400px;
+    background-color: red;
+}
 
 /*media*/
 
