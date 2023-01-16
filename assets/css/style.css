@@ -170,7 +170,8 @@ h2 {
 
 /* Image and text box */
 .one {
-    width: 800px;   
+    width: 800px;
+    height: auto;  
 }  
 
 .mountimg {
@@ -199,6 +200,7 @@ h2 {
 
    .one {
     width: 1000px;
+    height: auto;
    }
 
 
