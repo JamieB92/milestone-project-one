@@ -170,8 +170,7 @@ h2 {
 
 /* Image and text box */
 .one {
-    width: 800px;
-    background-color: aqua;    
+    width: 800px;   
 }  
 
 .mountimg {
@@ -182,8 +181,8 @@ h2 {
 .one-two {
     
     width: 500px;
-    height: 250px;
-    background-color: red;
+    height: 400px
+    
 }
 
 
