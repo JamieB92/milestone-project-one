@@ -173,12 +173,18 @@ h2 {
     width: 800px;
     height: auto;
     padding: 5px;
-    margin: 10px;  
+    
+
+    
+    
 }  
 
 .mountimg {
     width: 100%;
     height: 100%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+
 }
 
 .one-two {
@@ -189,6 +195,7 @@ h2 {
     margin: 10px;
     text-align: center;
     background-color: rgba(182, 143, 127, 0.4);
+    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
     border-radius: 20px;
 }
 
