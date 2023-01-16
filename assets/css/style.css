@@ -171,7 +171,9 @@ h2 {
 /* Image and text box */
 .one {
     width: 800px;
-    height: auto;  
+    height: auto;
+    padding: 5px;
+    margin: 10px;  
 }  
 
 .mountimg {
