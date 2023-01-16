@@ -196,8 +196,18 @@ h2 {
     
 /*mountains*/
 
-   
 
+   .one {
+    width: 1000px;
+   }
+
+
+   .one-two {
+    width: 750px;
+    height: 650px;
+    font-size: 30px;
+    text-align: left;
+   }
 }
 
 
