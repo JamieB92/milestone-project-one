@@ -181,8 +181,8 @@ h2 {
 .one-two {
     
     width: 500px;
-    height: 400px
-    
+    height: 400px;
+    text-align: center;
 }
 
 
@@ -245,11 +245,12 @@ h2 {
         font-size: 22px;
     }
 
-    
 }
 
 
 @media screen and (max-width:470px) {
+   
+   /* Nav Bar */
     #title {
         display: none;
     }
@@ -265,5 +266,11 @@ h2 {
     #icon {
         position: relative;
         margin-bottom: 27px;
+    }
+
+    /* Mountains */
+
+    .one-two {
+        padding: 10px;
     }
 }
