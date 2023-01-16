@@ -195,10 +195,6 @@ h2 {
 }
 
 
-
-
-
-
 /*media*/
 
 @media screen and (min-width: 2000px) {
@@ -236,14 +232,16 @@ h2 {
         display:flex;
         flex-direction: row-reverse; 
         padding-top: 27px;
-        padding-right: 25px;
+        padding-right: 10px;
     } 
 
     .hidden {
-        float: right;
+        position: absolute;
         display: none;
-        min-width: 100px;
-        text-decoration: none;    
+        text-decoration: none;
+        z-index: 1;
+        background-color: #bb9a83;
+
     }
 
     .hidden a {
@@ -252,10 +250,13 @@ h2 {
     }
     
     .hidden li {
+        text-align: center;
         list-style: none;
     }
 
-    #icon:hover .hidden {display: block;}
+    #icon:hover .hidden {
+        display: block;
+    }
     
     /* Full Size Menu */
 
