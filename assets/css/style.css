@@ -213,6 +213,12 @@ h2 {
     background-color: white;
 }
 
+.introimgbox {
+    width: 400px;
+    height: 350px;
+    background-color: white;
+}
+
 .wall {
     display: flex;
     flex-direction: row;
