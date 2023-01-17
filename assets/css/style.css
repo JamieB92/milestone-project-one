@@ -219,6 +219,11 @@ h2 {
     background-color: white;
 }
 
+.introimg {
+    height: 100%;
+    width: 100%;
+}
+
 .wall {
     display: flex;
     flex-direction: row;
