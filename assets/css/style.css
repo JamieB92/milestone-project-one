@@ -202,6 +202,13 @@ h2 {
     width: 100%;
     height: 400px;
     background-color: red;
+    gap: 1em;
+}
+
+.introbox {
+    width: 400px;
+    height: 200px;
+    background-color: white;
 }
 
 .wall {
@@ -230,6 +237,7 @@ height: 400px;
 margin: 10px 0 50px;
 background-color: orange;
 }
+
 /*media*/
 
 @media screen and (min-width: 2000px) {
