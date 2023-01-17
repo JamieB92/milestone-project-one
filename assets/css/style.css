@@ -207,9 +207,9 @@ h2 {
     gap: 1em;
 }
 
-.introbox {
+.introtxt {
     width: 400px;
-    height: 350px;
+    height: auto;
     background-color: white;
 }
 
