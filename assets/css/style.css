@@ -216,12 +216,13 @@ h2 {
 .introimgbox {
     width: 400px;
     height: 350px;
-    background-color: white;
 }
 
 .introimg {
     height: 100%;
     width: 100%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
 }
 
 .wall {
