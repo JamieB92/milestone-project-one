@@ -243,15 +243,21 @@ h2 {
     border-top: 17px solid #bb9a83;
 }
 
+.expl-txt {
+    width: 500px;
+    height: 400px;
+    background-color: white;
+}
+
 .expl-imgbox {
     width: 700px;
     height: 450px;
     background-color: white;
 }
 
-.expl-txt {
 
-}
+
+
 
 /*media*/
 
