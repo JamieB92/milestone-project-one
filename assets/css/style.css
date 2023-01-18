@@ -203,14 +203,17 @@ h2 {
     margin-top: 100px;
     width: 100%;
     height: auto;
-    background-color: red;
     gap: 1em;
 }
 
 .introtxt {
     width: 400px;
     height: auto;
-    background-color: white;
+    background-color: rgba(182, 143, 127, 0.4);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+
 }
 
 .introimgbox {
@@ -223,6 +226,7 @@ h2 {
     width: 100%;
     border-radius: 20px;
     box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+    
 }
 
 .wall {
