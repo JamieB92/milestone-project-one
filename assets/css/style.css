@@ -237,9 +237,13 @@ h2 {
 
 .expl-cont {
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 15px;
+    padding-top: 30px;
     width: 100%;
-    height: 400px;
+    gap: 1em;
     border-top: 17px solid #bb9a83;
 }
 
