@@ -256,8 +256,13 @@ h2 {
 
 .expl-imgbox {
     width: 700px;
-    height: 450px;
+    /* height: 450px; */
     background-color: white;
+}
+
+.expl-img {
+    width: 100%;
+    height: 100%;
 }
 
 #expl-bottom {
