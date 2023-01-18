@@ -213,7 +213,10 @@ h2 {
     border-radius: 20px;
     padding: 20px;
     box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+}
 
+.introtxt > h2 {
+    text-align: center;
 }
 
 .introimgbox {
