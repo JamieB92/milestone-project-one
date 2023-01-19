@@ -204,11 +204,11 @@ h2 {
     padding-bottom: 75px;
     width: 100%;
     height: auto;
-    gap: 6em;
+    gap: 1em;
 }
 
 .introtxt {
-    width: 400px;
+    width: 800px;
     height: auto;
     background-color: rgba(182, 143, 127, 0.4);
     border-radius: 20px;
