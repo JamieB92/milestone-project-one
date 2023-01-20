@@ -269,6 +269,12 @@ h2 {
 }
 
 #expl-bottom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    width: 100%;
+    gap: 1em;
     margin-bottom: 55px;
 }
 
