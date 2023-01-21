@@ -206,6 +206,15 @@ h2 {
 
 /* Explore Page */
 
+.expl-headers {
+    width: 100%;
+    height: 40px;
+    padding-bottom: 15px;
+    border-bottom: 17px solid #bb9a83;
+    margin-top: 20px;
+}
+
+
 .expl-cont {
     display: flex;
     flex-wrap: wrap;
