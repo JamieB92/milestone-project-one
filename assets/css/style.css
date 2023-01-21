@@ -101,32 +101,43 @@ h2 {
     max-height: 100%;
     
 }
+ /* Introduction */
 
-
-/* Discover, Explore Section */
-
- #disc {
-    padding: 10px 20px 10px 20px; 
-}   
-
-#explore {
-    padding: 10px 20px 10px 20px; 
-} 
-
-.border{
-    
-    border-style: double;
-    border-color: black;
-    border-width: thick;
-    margin-left: 20px;
-    margin-right: 20px; 
+.intro {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+    padding-bottom: 75px;
+    width: 100%;
+    height: auto;
+    gap: 1em;
 }
 
-.about {
-    display: flex;
-    flex-direction: row;
-    gap: 50px;
-    padding: 20px 30px 20px 30px;
+.introtxt {
+    width: 800px;
+    height: auto;
+    background-color: rgba(182, 143, 127, 0.4);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+}
+
+.introtxt > h2 {
+    text-align: center;
+}
+
+.introimgbox {
+    width: 600px;
+}
+
+.introimg {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+    
 }
 
 
@@ -194,45 +205,6 @@ h2 {
 }
 
 /* Explore Page */
-
-.intro {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-items: center;
-    margin-top: 100px;
-    padding-bottom: 75px;
-    width: 100%;
-    height: auto;
-    gap: 1em;
-}
-
-.introtxt {
-    width: 800px;
-    height: auto;
-    background-color: rgba(182, 143, 127, 0.4);
-    border-radius: 20px;
-    padding: 20px;
-    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
-}
-
-.introtxt > h2 {
-    text-align: center;
-}
-
-.introimgbox {
-    width: 600px;
-}
-
-.introimg {
-    height: 100%;
-    width: 100%;
-    border-radius: 20px;
-    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
-    
-}
-
-/* Rest of explore information */
 
 .expl-cont {
     display: flex;
