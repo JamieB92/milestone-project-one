@@ -204,7 +204,7 @@ h2 {
 
 .expl-headers {
     width: 100%;
-    height: 40px;
+    height: fit-content;
     padding: 0 0 17px 10px;
     border-bottom: 10px solid #bb9a83;
     margin-top: 50px;
