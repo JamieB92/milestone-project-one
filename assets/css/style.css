@@ -106,7 +106,7 @@ h2 {
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 30px;
     padding-bottom: 75px;
     width: 100%;
     height: auto;
@@ -116,7 +116,10 @@ h2 {
 #welcometitle {
     width: 100%;
     height: fit-content;
-    border-bottom: 10px solid #bb9a83;
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+    border-color: #bb9a83;
+    padding-top: 15px;
     text-align: center;
     
 }
