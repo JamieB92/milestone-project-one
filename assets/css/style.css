@@ -294,6 +294,14 @@ h2 {
 
 @media screen and (min-width: 2000px) {
    
+/* Home Page*/
+
+#hero-bord {
+    height: 1500px;
+}
+
+
+
 /*mountains*/
 
 
