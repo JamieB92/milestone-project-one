@@ -185,7 +185,7 @@ h2 {
     width: 100%;
     height: 100%;
     border-radius: 20px;
-    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+    box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
 }
 
 .one-two {
@@ -196,7 +196,7 @@ h2 {
     margin: 10px;
     text-align: center;
     background-color: rgba(182, 143, 127, 0.4);
-    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+    box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
     border-radius: 20px;  
 }
 
@@ -229,7 +229,7 @@ h2 {
     padding: 10px;
     background-color: rgba(182, 143, 127, 0.4);
     border-radius: 20px;
-    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+    box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
     text-align: center;
 }
 
@@ -241,7 +241,7 @@ h2 {
     width: 100%;
     height: 100%;
     border-radius: 20px;
-    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+    box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
 }
 
 #expl-bottom {
@@ -261,7 +261,7 @@ h2 {
     padding: 10px;
     background-color: rgba(182, 143, 127, 0.4);
     border-radius: 20px;
-    box-shadow: 3px 3px 3px 3px rgba(182, 143, 127, 0.5);
+    box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
     text-align: center;
 }
 
