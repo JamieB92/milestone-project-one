@@ -84,10 +84,11 @@ h2 {
     display: none;
 }
 
+/* Home page */
+
 
 
 /* hero image */
-
 
 #hero-bord {
     width: 100%;
@@ -146,28 +147,6 @@ h2 {
     
 }
 
-
-/* Footer */ 
-
-#f-border {
-    position:fixed;
-    bottom: 0;
-    height: 40px;
-    width: 100%;
-    background-color: #bb9a83;
-    
-}
-
-.socials {
-    text-align: center;
-    padding-top: 10px;
-    color: black;
-}
-
-.socials > a  {
-    padding-left: 20px;
-    color: black;
-}
 
 
 /* Mountains*/
@@ -277,6 +256,30 @@ h2 {
 
 .mtb-box > ul {
     list-style: none;
+}
+
+
+
+/* Footer */ 
+
+#f-border {
+    position:fixed;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    background-color: #bb9a83;
+    
+}
+
+.socials {
+    text-align: center;
+    padding-top: 10px;
+    color: black;
+}
+
+.socials > a  {
+    padding-left: 20px;
+    color: black;
 }
 
 
