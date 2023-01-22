@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rokkitt:wght@300&display=swap');
-
+ 
 * {
     margin: 0;
     padding: 0;
@@ -96,7 +96,7 @@ h2 {
     height: 750px;
     justify-content: center;
     align-items: center;
-    background-image: url(/assets/images/beach-and-the-mournes.jpg);
+    background-image: url(../images/beach-and-the-mournes.jpg);
 }
 
 
