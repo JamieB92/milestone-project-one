@@ -284,13 +284,13 @@ h2 {
 
 .socials {
     text-align: center;
-    padding-top: 10px;
-    color: black;
+    padding-top: 5px;
+    color: #474140;
 }
 
 .socials > a  {
     padding-left: 20px;
-    color: black;
+    color: #474140;
 }
 
 
