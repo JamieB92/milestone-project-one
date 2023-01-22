@@ -7,7 +7,8 @@
 }
 
 body {
-    font-family: rokkitt, sans-serif;
+    
+    font-family: 'Open Sans', sans-serif;
     font-size: 23px;
     font-weight: 200;
     letter-spacing: 1px;
@@ -15,11 +16,12 @@ body {
 }
 
 h1, h2 {
-    font-family: roboto, sans-serif;
+    font-family: 'Archivo Black', sans-serif;
     font-weight: 400;
     font-size: 50px;
     letter-spacing: 1px;
-    color: black;
+    text-shadow: 2px 6px 13px rgba(82,82,82,0.45);
+    color: #474140;
 }
 
 h2 {
