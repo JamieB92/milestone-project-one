@@ -343,6 +343,16 @@ input[type=submit] {
     color: #474140;   
 }
 
+input[type=reset] {
+    width: 100px;
+    height: 40px;
+    background-color: #E8D8CA;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #474140;   
+}
+
+
 
 /* Footer */ 
 
