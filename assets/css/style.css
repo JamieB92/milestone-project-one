@@ -334,6 +334,15 @@ input[type=email] {
     background-color: #E8D8CA;
 }
 
+input[type=submit] {
+    width: 100px;
+    height: 40px;
+    background-color: #E8D8CA;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #474140;   
+}
+
 
 /* Footer */ 
 
