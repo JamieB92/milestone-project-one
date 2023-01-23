@@ -295,7 +295,7 @@ h2 {
 
 
 #signup-form {
-    width: 350px;
+    width: 450px;
     height: fit-content;
     padding: 10px;
     background-color: rgba(182, 143, 127, 0.4);
@@ -303,6 +303,34 @@ h2 {
     box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
     text-align: center;
 }
+
+input[type=text] {
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #E8D8CA;
+}
+
+input[type=date] {
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #E8D8CA;
+
+}
+
+input[type=email] {
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #E8D8CA;
+
+}
+
+
 
 
 /* Footer */ 
