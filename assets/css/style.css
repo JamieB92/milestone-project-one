@@ -352,7 +352,13 @@ input[type=reset] {
     color: #474140;   
 }
 
+input[type=submit]:hover {
+    background-color: white;
+}
 
+input[type=reset]:hover {
+    background-color: white;
+}
 
 /* Footer */ 
 
