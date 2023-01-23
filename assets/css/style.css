@@ -277,6 +277,7 @@ h2 {
         justify-content: space-evenly;
         align-items: center;
         margin-top: 60px;
+        margin-bottom: 60px;
         padding-top: 30px;
         width: 100%;
         gap: 1em;
@@ -292,19 +293,9 @@ h2 {
     text-align: center;
 }
 
-#signup-form-cont {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-items: center;
-    margin-bottom: 100px;
-    padding-top: 50px;
-    width: 100%;
-    gap: 1em;
-}
 
 #signup-form {
-    width: 600px;
+    width: 350px;
     height: fit-content;
     padding: 10px;
     background-color: rgba(182, 143, 127, 0.4);
