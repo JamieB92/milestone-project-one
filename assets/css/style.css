@@ -269,6 +269,20 @@ h2 {
     list-style: none;
 }
 
+/* E Newsletter  */
+
+
+.newsletter-txt {
+    margin-top: 100px;
+    width: 400px;
+    height: fit-content;
+    padding: 10px;
+    background-color: rgba(182, 143, 127, 0.4);
+    border-radius: 20px;
+    box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
+    text-align: center;
+}
+
 
 
 /* Footer */ 
