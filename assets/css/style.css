@@ -272,9 +272,10 @@ h2 {
 /* E Newsletter  */
 
 
+
 .newsletter-txt {
     margin-top: 100px;
-    width: 400px;
+    width: 650px;
     height: fit-content;
     padding: 10px;
     background-color: rgba(182, 143, 127, 0.4);
