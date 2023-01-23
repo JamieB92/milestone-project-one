@@ -415,10 +415,35 @@ input[type=reset]:hover {
     font-size: 30px;
     text-align: left;
    }
+
+
+
+/* E-Newsletter page */
+
+#newsletter-cont {
+    padding-top: 200px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 5em;
+}
+
+.newsletter-txt {
+    width: 900px;
+    padding: 30px;
 }
 
 
+#signup-form {
+    width: 600px;
+    padding: 30px;
+}
 
+.signup-bord {
+    width: 600px;
+}    
+
+}
 
 @media screen and (max-width: 940px) {
     
