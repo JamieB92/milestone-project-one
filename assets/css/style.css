@@ -376,9 +376,14 @@ input[type=reset]:hover {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    margin: 10px;
     background-color: rgba(182, 143, 127, 0.4);
     border-radius: 20px;
     box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
+    text-align: center;
+}
+
+#thank-you > h1 {
     text-align: center;
 }
 
@@ -517,13 +522,10 @@ input[type=reset]:hover {
         display: none;
     }
 
+    /* Thank you For Subscribing */
 
-
-    /* About Sction Media */
-
-    .about {
-        flex-wrap: wrap;
-        font-size: 22px;
+    #thank-you {
+        margin-top: 100px;
     }
 
 }
