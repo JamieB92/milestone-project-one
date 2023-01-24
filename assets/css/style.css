@@ -367,8 +367,17 @@ input[type=reset]:hover {
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: 100px;
-        width: 100%;
+        margin-top: 160px;
+}
+
+#thank-you-txt {
+    width: 500px;
+    height: fit-content;
+    padding: 20px;
+    background-color: rgba(182, 143, 127, 0.4);
+    border-radius: 20px;
+    box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
+    text-align: center;
 }
 
 
