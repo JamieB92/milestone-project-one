@@ -297,7 +297,9 @@ h2 {
 #signup-form {
     width: fit-content;
     height: fit-content;
-    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
     background-color: rgba(182, 143, 127, 0.4);
     border-radius: 20px;
     box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
@@ -305,6 +307,7 @@ h2 {
 }
 
 .signup-bord {
+    display: block;
     height: fit-content;
     padding: 10px;
 }
@@ -318,6 +321,7 @@ input[type=text] {
 }
 
 input[type=date] {
+    
     width: 300px;
     height: 30px;
     text-align: center;
@@ -333,14 +337,14 @@ input[type=email] {
     background-color: #E8D8CA;
 }
 
-
 input[type=submit] {
     width: 100px;
     height: 40px;
     background-color: #E8D8CA;
     border-radius: 10px;
     font-size: 20px;
-    color: #474140;   
+    color: #474140;
+    margin-right: 10px;   
 }
 
 input[type=reset] {
@@ -350,6 +354,7 @@ input[type=reset] {
     border-radius: 10px;
     font-size: 20px;
     color: #474140;   
+    margin-left: 10px;
 }
 
 input[type=submit]:hover {
