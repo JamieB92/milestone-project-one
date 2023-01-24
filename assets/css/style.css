@@ -483,12 +483,13 @@ input[type=reset]:hover {
 /* Home Page */
 
 .introtxt {
-    max-width: 470px;
+    width: 500px;
+    text-align: center;
     height: fit-content;
 }
 
 .introimgbox{
-    width: 550px;
+    width:  500px;
 }
 
 
