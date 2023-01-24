@@ -478,6 +478,29 @@ input[type=reset]:hover {
 
 }
 
+@media  screen and (max-width: 1500px) {
+    
+/* Home Page */
+
+.introtxt {
+    max-width: 470px;
+    height: fit-content;
+}
+
+.introimgbox{
+    width: 550px;
+}
+
+
+}
+
+
+
+
+
+
+
+
 @media screen and (max-width: 940px) {
     
 /* Nav Bar Media */
