@@ -360,6 +360,18 @@ input[type=reset]:hover {
     background-color: white;
 }
 
+
+/* Thank You For Subscribing Page */
+
+#thank-you {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+        width: 100%;
+}
+
+
 /* Footer */ 
 
 #f-border {
