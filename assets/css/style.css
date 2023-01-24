@@ -580,10 +580,25 @@ input[type=reset]:hover {
         margin-bottom: 27px;
     }
 
+    /* Home Page*/
+
+    .introtxt {
+        margin: 10px;
+    }
+    
+    .introimgbox{
+        margin: 10px;
+    }
+
+
     /* Mountains */
 
     .one-two {
         height: fit-content;
         padding: 10px;
     }
+
+
+
+
 }
