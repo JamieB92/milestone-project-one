@@ -505,9 +505,19 @@ input[type=reset]:hover {
 }
 
 
+/* Mountains Page */
+
+.mount-txt {
+    width: 450px;
+    font-size: 18px;
 }
 
+.img-cont {
+    width: 500px;
+    height: 430px;
+}
 
+}
 
 @media screen and (max-width: 940px) {
     
