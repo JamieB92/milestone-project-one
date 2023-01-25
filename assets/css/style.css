@@ -107,6 +107,8 @@ h2 {
     background-attachment: fixed;
 }
 
+
+
  /* Introduction */
 
 #intro {
@@ -525,7 +527,7 @@ input[type=reset]:hover {
 
 }
 
-@media screen and (max-width: 940px) {
+@media screen and (max-width: 1200px) {
     
 /* Nav Bar Media */
     #navbar {
@@ -576,6 +578,13 @@ input[type=reset]:hover {
         display: none;
     }
 
+    /*Home Page */
+
+    #hero-bord {
+        background-attachment: inherit;
+    }
+
+
     /* Thank you For Subscribing */
 
     #thank-you {
@@ -585,7 +594,7 @@ input[type=reset]:hover {
 }
 
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:470px) {
    
    /* Nav Bar */
     #title {
@@ -606,6 +615,11 @@ input[type=reset]:hover {
     }
 
     /* Home Page*/
+
+    #hero-bord {
+        height: 500px;
+        background-attachment: inherit;
+    }
 
     .introtxt {
         margin: 10px;
