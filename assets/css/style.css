@@ -216,8 +216,7 @@ h2 {
 
 .expl-headers {
     width: 100%;
-    height: fit-content;
-    padding: 0 0 17px 10px;
+    text-align: center;
     border-bottom: 10px solid #bb9a83;
     margin-top: 50px;
 }
@@ -280,6 +279,11 @@ h2 {
 .mtb-box > ul {
     list-style: none;
 }
+
+.expl-headers > h2 {
+    font-size: 47px;
+}
+
 
 /* E Newsletter  */
 
