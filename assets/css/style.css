@@ -448,13 +448,13 @@ input[type=reset]:hover {
 /*mountains*/
 
 
-   .one {
+   .img-cont {
     width: 1000px;
     height: auto;
    }
 
 
-   .one-two {
+   .mount-txt {
     width: 750px;
     height: 650px;
     font-size: 30px;
