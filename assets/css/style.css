@@ -307,6 +307,7 @@ h2 {
     width: 600px;
     height: fit-content;
     padding: 10px;
+    margin: 10px;
     background-color: rgba(182, 143, 127, 0.4);
     border-radius: 20px;
     box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
