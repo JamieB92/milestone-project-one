@@ -577,7 +577,7 @@ input[type=reset]:hover {
 }
 
 
-@media screen and (max-width:470px) {
+@media screen and (max-width:500px) {
    
    /* Nav Bar */
     #title {
@@ -609,6 +609,12 @@ input[type=reset]:hover {
 
 
     /* Mountains */
+
+    
+    .img-cont {
+        width: 450px;
+        height: 400px;
+    }
 
     .mount-txt {
         height: fit-content;
