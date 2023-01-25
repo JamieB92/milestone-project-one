@@ -187,7 +187,7 @@ h2 {
 }
 
 /* Image and text box */
-.one {
+.img-cont {
     width: 800px;
     height: auto;
     padding: 5px;
@@ -200,7 +200,7 @@ h2 {
     box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
 }
 
-.one-two {
+.mount-txt {
     
     width: 500px;
     height: fit-content;
