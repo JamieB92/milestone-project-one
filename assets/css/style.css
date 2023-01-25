@@ -145,6 +145,7 @@ h2 {
 .introtxt {
     width: 800px;
     height: auto;
+    text-align: center;
     background-color: rgba(182, 143, 127, 0.4);
     border-radius: 20px;
     padding: 20px;
