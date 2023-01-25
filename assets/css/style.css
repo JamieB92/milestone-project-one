@@ -539,7 +539,7 @@ input[type=reset]:hover {
         display:flex;
         flex-direction: row-reverse; 
         padding-top: 27px;
-        padding-right: 10px;
+        padding-right: 20px;
     } 
 
     .hidden {
@@ -548,21 +548,23 @@ input[type=reset]:hover {
         text-decoration: none;
         z-index: 1;
         background-color: #bb9a83;
-
     }
 
     .hidden a {
         text-decoration: none;
-        color:black
+        color:black;
     }
     
     .hidden li {
         text-align: center;
         list-style: none;
+        padding: 10px;
+        border: 5px solid #474140;
     }
 
     #icon:hover .hidden {
         display: block;
+        
     }
     
     /* Full Size Menu */
