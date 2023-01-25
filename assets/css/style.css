@@ -528,55 +528,9 @@ input[type=reset]:hover {
 
 @media screen and (max-width: 1200px) {
     
-/* Nav Bar Media */
-    #navbar {
-     justify-content: left;   
-    }
+
     
-/* Drop Down Menu */
-
-    #icon {
-        display:flex;
-        flex-direction: row-reverse; 
-        padding-top: 27px;
-        padding-right: 20px;
-    } 
-
-    .hidden {
-        position: absolute;
-        display: none;
-        text-decoration: none;
-        z-index: 1;
-        background-color: #bb9a83;
-    }
-
-    .hidden a {
-        text-decoration: none;
-        color:black;
-    }
     
-    .hidden li {
-        text-align: center;
-        list-style: none;
-        padding: 10px;
-        border: 5px solid #474140;
-    }
-
-    #icon:hover .hidden {
-        display: block;
-        
-    }
-    
-    /* Full Size Menu */
-
-    .menu {
-        flex-direction: row;
-        justify-content: left;
-        font-size: 22px;
-        gap: 5px;
-        display: none;
-    }
-
     /*Home Page */
 
     #hero-bord {
@@ -591,6 +545,60 @@ input[type=reset]:hover {
     }
 
 }
+
+@media screen and (max-width:940px) {
+
+    /* Full Size Menu */
+
+    .menu {
+        flex-direction: row;
+        justify-content: left;
+        font-size: 22px;
+        gap: 5px;
+        display: none;
+    }
+
+    /* Nav Bar Media */
+    #navbar {
+        justify-content: left;   
+       }
+       
+   /* Drop Down Menu */
+   
+       #icon {
+           display:flex;
+           flex-direction: row-reverse; 
+           padding-top: 27px;
+           padding-right: 20px;
+       } 
+   
+       .hidden {
+           position: absolute;
+           display: none;
+           text-decoration: none;
+           z-index: 1;
+           background-color: #bb9a83;
+       }
+   
+       .hidden a {
+           text-decoration: none;
+           color:black;
+       }
+       
+       .hidden li {
+           text-align: center;
+           list-style: none;
+           padding: 10px;
+           border: 5px solid #474140;
+       }
+   
+       #icon:hover .hidden {
+           display: block;
+           
+       }
+
+}
+
 
 
 @media screen and (max-width:470px) {
