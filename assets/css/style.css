@@ -482,6 +482,7 @@ input[type=reset]:hover {
 }
 
 .newsletter-txt {
+    margin: 10px;
     width: 900px;
     padding: 30px;
 }
