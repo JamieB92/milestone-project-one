@@ -219,6 +219,7 @@ h2 {
     text-align: center;
     border-bottom: 10px solid #bb9a83;
     margin-top: 50px;
+    padding: 10px;
 }
 
 
@@ -237,6 +238,7 @@ h2 {
 .expl-txt {
     width: 500px;
     height: fit-content;
+    margin: 10px;
     padding: 10px;
     background-color: rgba(182, 143, 127, 0.4);
     border-radius: 20px;
@@ -245,6 +247,7 @@ h2 {
 }
 
 .expl-imgbox {
+    margin: 10px;
     width: 700px;
 }
 
@@ -281,7 +284,7 @@ h2 {
 }
 
 .expl-headers > h2 {
-    font-size: 47px;
+    font-size: 45px;
 }
 
 
