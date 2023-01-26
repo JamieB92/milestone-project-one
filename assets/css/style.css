@@ -231,7 +231,7 @@ h2 {
 .expl-cont {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     margin-top: 15px;
     padding-top: 30px;
@@ -241,7 +241,7 @@ h2 {
 
 
 .expl-txt {
-    width: 400px;
+    width: 500px;
     height: fit-content;
     margin: 10px;
     padding: 10px;
