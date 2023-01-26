@@ -520,7 +520,7 @@ input[type=reset]:hover {
        }
 }
 
-@media  screen and (max-width: 1600px) {
+@media  screen and (max-width: 1500px) {
     
 /* Home Page */
 
@@ -576,7 +576,7 @@ input[type=reset]:hover {
 
 }
 
-@media screen and (max-width:940px) {
+@media screen and (max-width:1000px) {
 
     /* Full Size Menu */
 
