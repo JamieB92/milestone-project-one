@@ -191,28 +191,30 @@ h2 {
 
 /* Image and text box */
 .img-cont {
-    width: 800px;
-    height: auto;
+    width: 600px;
+    height: 500px;
     padding: 5px;
 }  
 
 .mountimg {
     width: 100%;
     height: 100%;
+    align-items: center;
     border-radius: 20px;
     box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
 }
 
 .mount-txt {
     
-    width: 500px;
+    width: 400px;
     height: fit-content;
     padding: 50px;
     margin: 10px;
     text-align: center;
     background-color: rgba(182, 143, 127, 0.4);
     box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
-    border-radius: 20px;  
+    border-radius: 20px;
+    font-size: 18px;  
 }
 
 /* Explore Page */
@@ -452,12 +454,15 @@ input[type=reset]:hover {
 
 /*mountains*/
 
+  .mountains {
+    gap: 10em;
+    align-items: center;
+ }
 
-   .img-cont {
-    width: 1000px;
-    height: auto;
-   }
-
+ .img-cont {
+    width: 640px;
+    height: 500px;
+ }
 
    .mount-txt {
     width: 750px;
@@ -521,13 +526,13 @@ input[type=reset]:hover {
 /* Mountains Page */
 
 .mount-txt {
-    width: 450px;
+    width: 400px;
     font-size: 18px;
 }
 
 .img-cont {
-    width: 500px;
-    height: 430px;
+    width:  450px;
+    height: 350px;
 }
 
 }
