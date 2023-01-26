@@ -455,18 +455,21 @@ input[type=reset]:hover {
 /*mountains*/
 
   .mountains {
-    gap: 10em;
+    display: flex;
+    gap: 200px;
     align-items: center;
+    justify-content: center;
+    
  }
 
  .img-cont {
-    width: 640px;
+    width: 800px;
     height: 500px;
  }
 
    .mount-txt {
     width: 750px;
-    height: 650px;
+    height: fit-content;
     font-size: 30px;
     text-align: left;
    }
