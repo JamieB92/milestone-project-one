@@ -103,6 +103,11 @@ h2 {
     background-attachment: fixed;
 }
 
+.logo {
+    width: 600px;
+    height: 600px;
+}
+
 
 
  /* Introduction */
@@ -501,6 +506,12 @@ input[type=reset]:hover {
     
 /* Home Page */
 
+.logo {
+    width: 400px;
+    height: 400px;
+}
+
+
 .introtxt {
     width: 500px;
     text-align: center;
@@ -510,6 +521,7 @@ input[type=reset]:hover {
 .introimgbox{
     width:  500px;
 }
+
 
 
 /* Mountains Page */
