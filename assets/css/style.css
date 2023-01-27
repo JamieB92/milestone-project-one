@@ -221,11 +221,11 @@ h2 {
 
 .expl-headers {
     width: 100%;
-    text-align: center;
+    text-align: left;
     border-bottom: 10px solid #bb9a83;
     margin-top: 50px;
     padding: 10px;
-}
+} 
 
 
 .expl-cont {
