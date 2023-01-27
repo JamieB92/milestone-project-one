@@ -19,3 +19,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
   * Drop-down: 
     <img src="./docs/drop-down-nav-bar.png">
+
+* Footer
+  * The footer contains social media icons that are linked to the social media websites. When the user clicks on the icon it will open a new tab and take the  user to the correct social media platform. For a user who is using a screen reader the icons contain the aria label for accessibility.
+  * This allows the user the ability to follow and join the Explore The Mourne community on their desired platform. It also allows the user to keep informed on any events coming up and allowing the user another platform to enter the monthly competition.
