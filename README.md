@@ -43,3 +43,17 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 * This allows the user to be informed and engaged with the site and the Mourne area. <br>
 <br>
 <img src="./docs/explore-visit.png">
+
+# Mountains Page
+### About The Mournes
+ * This gives the user an introduction to the page and what it's about.<br>
+ * This gives a short description of the Mourne Mountains.<br>
+ <br>
+ <img src="./docs/about-mournes.png">
+
+### The Mountains
+ * As the user scorlls down the page they will find unique information about the 7 highest peaks in the Mournes.<br>
+ * Within each section the it will give the user information on where to park and how long a hike will be.<br>
+ * Each image is accessible for the visually impared giving each image a descriptive alt attribute.<br>
+ <br>
+ <img src="./docs/mountains.png">
