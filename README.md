@@ -15,7 +15,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
     * <img src="./docs/full-size-nav-bar.png">
 
   * Mobile Screens:
-   * <img src="./docs/mobile-nav-bar">
+   * <img src="./docs/mobile-nav-bar.png">
 
   * Drop-down: 
-   * <img src="./docs/drop-down-nav-bar">
+   * <img src="./docs/drop-down-nav-bar.png">
