@@ -12,10 +12,10 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
   * This allows for ease of navigation through the site no matter the device it is being viewed on.
 
   * Larger Screens: 
-    * <img src="./docs/full-size-nav-bar.png">
+    <img src="./docs/full-size-nav-bar.png">
 
   * Mobile Screens:
-   * <img src="./docs/mobile-nav-bar.png">
+    <img src="./docs/mobile-nav-bar.png">
 
   * Drop-down: 
-   * <img src="./docs/drop-down-nav-bar.png">
+    <img src="./docs/drop-down-nav-bar.png">
