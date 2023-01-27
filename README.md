@@ -40,6 +40,6 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
  ### Explore & Visit The Mournes
 * This gives the user information about why they should visit and explore the Mournes.
-* This allows the user to be informed and engaged with the site and the Mourne area.
-
+* This allows the user to be informed and engaged with the site and the Mourne area. <br>
+<br>
 <img src="./docs/explore-visit.png">
