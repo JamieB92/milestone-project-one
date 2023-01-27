@@ -6,25 +6,28 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 ## Features 
 
-### Site wide
-* Navigation Menu
+# Site wide
+ ### Navigation Menu
   * Contains Links to Home, Mountains, Explore and Newsletter. The nav bar is responsive on all devices, on smaller screens it turns in to a drop-down menu for ease of use on a smaller device.
   * This allows for ease of navigation through the site no matter the device it is being viewed on.
 
-  * Larger Screens:
+   Larger Screens:
   <br> 
     <img src="./docs/full-size-nav-bar.png">
 <br>
-  * Mobile Screens:
+   Mobile Screens:
   <br>
     <img src="./docs/mobile-nav-bar.png">
 <br>
-  * Drop-down:
+   Drop-down:
   <br> 
     <img src="./docs/drop-down-nav-bar.png">
 <br>
-* Footer
-  * The footer contains social media icons that are linked to the social media websites. When the user clicks on the icon it will open a new tab and take the  user to the correct social media platform. For a user who is using a screen reader the icons contain the aria label for accessibility.
+ ### Footer
+  * The footer contains social media icons that are linked to the social media websites. When the user clicks on the icon it will open a new tab and take the  user to the correct social media platform. 
   * This allows the user the ability to follow and join the Explore The Mourne community on their desired platform. It also allows the user to keep informed on any events coming up and allowing the user another platform to enter the monthly competition.<br>
+  * For a user who is using a screen reader the icons contain the aria label for accessibility.<br>
 <br>
   <img src="./docs/footer.png">
+
+# Home Page 
