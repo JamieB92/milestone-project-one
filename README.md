@@ -8,7 +8,14 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 ### Site wide
 * Navigation Menu
-  * Contains Links to Home, Mountains, Explore and Newsletter. The nav bar is responsive on all devices, on smaller screens it turns in to a drop down menu.
+  * Contains Links to Home, Mountains, Explore and Newsletter. The nav bar is responsive on all devices, on smaller screens it turns in to a drop-down menu for ease of use on a smaller device.
   * This allows for ease of navigation through the site no matter the device it is being viewed on.
 
-  
+  * Larger Screens: 
+    * <img src="./docs/full-size-nav-bar.png">
+
+  * Mobile Screens:
+   * <img src="./docs/mobile-nav-bar">
+
+  * Drop-down: 
+   * <img src="./docs/drop-down-nav-bar">
