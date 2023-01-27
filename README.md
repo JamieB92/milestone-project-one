@@ -31,3 +31,9 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
   <img src="./docs/footer.png">
 
 # Home Page 
+* Hero Image & Logo
+ * When the vistor first arrives on the page they will first see the Explore The Mournes logo and the hero image of the Mourne mountains.
+ * The hero Image is fixed in place, this will animate the home page.
+ * This will allow the user to know what the website is about and draw the user to explore the site.
+<br>
+ <img src="./docs/hero-logo.png>
