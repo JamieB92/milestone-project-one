@@ -4,8 +4,6 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 <img src="./docs/screens-image.png">
 
-## Features 
-
 # Site wide
  ### Navigation Menu
   * Contains Links to Home, Mountains, Explore and Newsletter. The nav bar is responsive on all devices, on smaller screens it turns in to a drop-down menu for ease of use on a smaller device.
