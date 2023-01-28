@@ -92,6 +92,38 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 # Testing 
 
+#### Desktop
+* I tested that each page on the site works on:
+ * Chrome
+ * Firefox
+ * Edge 
+
+
+ ### Mobile
+ * I tested that each page on the site works on :
+  * Chrome
+  * Firefox 
+  * Safari
+
+* I have confirmed that all links within the nav bar all work and take the user to the correct page.
+
+* I have confirmed that the website is responsive with different screen sizes by testing on different devices and using the devtools within the browser.
+
+* I have confirmed that the navigation menu title and text are all readable. They are all clear and easy to understand. 
+
+* I have confirmed all external links open in a new tab and direct the user to the external site.
+
+* I have confimed the footer icons are all readable and clear to understand. I also confirm that the social media icons open a new tab/app to the correct site.
+
+* I have confirmed that the subscription form works and is responsive on all devices. Input is required for personal information but not for reasons for subscribing and uploading photos for the monthly competition.
+
+* I have confirmed that once the user has subscribed it directs the user to a thank you page.
+
+
+
+
+
+
 
 
 
