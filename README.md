@@ -52,10 +52,6 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
  <br>
  <img src="./docs/about-mournes.png">
 
-
-
- 
-
 # Explore Page
 * This page offers an alternative to the user than hiking.<br>
 * Each section within this page gives the user other information about unique places and ativities within the Mourne Mountain region.<br>
