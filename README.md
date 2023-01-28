@@ -60,3 +60,21 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 * Within the Mountain Bike section of this page it tells you where the popular places are, what type of trails are there and the facilities they offer.<br>
 <br>
 <img src="./docs/mourne-wall.png">
+
+# E-Newsletter Page
+* This page offers the user to sign up to the monthly E-Newsletter.
+* Subscribing allows the user an oppertunity to win in a monthly phtography competion and also informs the user of active groups and events.
+* The subscription form allows the user to subscribe and upload photos at the same time.
+* The subscription form consists of the following inputs:
+  * First Name
+  * Last Name
+  * Date of Birth
+  * Email Address
+  * Reasons for Subscribing
+  * Upload For Competition
+  * Subscribe Button
+  * Reset Button
+* Once subscribed the user will be directed to a thankyou.html giving the user a thank you message.
+* The user will be able to navigate out of the page through the navigation menu.<br>
+<br>
+<img src="./docs/newsletter.png">
