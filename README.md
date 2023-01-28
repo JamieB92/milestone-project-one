@@ -127,7 +127,9 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
  * I discovered this was because my image files were too large.
  * I resolved the issue by compressing the images and converting some to .webp files. 
 
+### Validator Testing 
 
-
-
-
+* HTML 
+ * No errors were returned when passing through the official W3C validator.
+* CSS 
+ * No errors were found when passing through the offficial (Jigsaw) validator.
