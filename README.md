@@ -120,8 +120,12 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 * I have confirmed that once the user has subscribed it directs the user to a thank you page.
 
 
+### Bugs
 
-
+* Solved Bugs
+ * During validation testing I discovered my best performance score was lower on some of the pages.
+ * I discovered this was because my image files were too large.
+ * I resolved the issue by compressing the images and converting some to .webp files. 
 
 
 
