@@ -55,6 +55,8 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 # Explore Page
 * This page offers an alternative to the user than hiking.<br>
 * Each section within this page gives the user other information about unique places and ativities within the Mourne Mountain region.<br>
+* The Mourne Wall section gives the user information on the Mourne wall and its history.<br>
+* Silent Valley section offers the user information on the area and what facilities it has to offer to the user.<br>
 * Within the Mountain Bike section of this page it tells you where the popular places are, what type of trails they have and the facilities they offer.<br>
 <br>
 <img src="./docs/mourne-wall.png">
