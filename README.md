@@ -57,3 +57,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
  * Each image is accessible for the visually impared giving each image a descriptive alt attribute.<br>
  <br>
  <img src="./docs/mountains.png">
+
+# Explore Page
+
+* Each section within this page gives the user other information about unique places and ativities within the Mournes
