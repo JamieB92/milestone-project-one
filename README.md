@@ -151,4 +151,4 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 *  newsletter.html :
 <br>
-<img src="./docs/newsletter-lh.png>  
+<img src="./docs/newsletter-lh.png">  
