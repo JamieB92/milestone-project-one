@@ -81,7 +81,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 * <a href="https://en.wikipedia.org/wiki/HTML5" target=" _blank">HTML 5</a>
 * <a href="https://en.wikipedia.org/wiki/CSS" target=" _blank">CSS 3</a>
-* <a href="https://vscode.github.com/" target=" _blank">Visual Studio Code</a>
+* <a href="https://www.gitpod.io/" target=" _blank">Gitpod</a>
 * <a href="https://github.com/" target=" _blank">GitHub</a>
 * <a href="https://git-scm.com/" target=" _blank">Git</a>
 * <a href="https://fontawesome.com/" target=" _blank">Font Awesome</a>
