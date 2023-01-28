@@ -133,3 +133,22 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
  * No errors were returned when passing through the official W3C validator.
 * CSS 
  * No errors were found when passing through the offficial (Jigsaw) validator.
+
+ ### Lighthouse Testing 
+
+* I have confirmed that each page within the site has colors and fonts that were chosen are easy to read and accessible by running it through lighthouse in devtools.
+ * index.html:
+ <br>
+<img src="./docs/index-lh.png">
+
+ * mountains.html:
+ <br>
+  <img src="./docs/mountains-lh.png">
+
+* explore.html:
+<br>
+ <img src="./docs/explore-lh.png">
+
+*  newsletter.html :
+<br>
+<img src="./docs/newsletter-lh.png>  
