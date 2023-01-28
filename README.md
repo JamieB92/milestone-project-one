@@ -72,7 +72,21 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
   * Upload For Competition
   * Subscribe Button
   * Reset Button
-* Once subscribed the user will be directed to a thankyou.html giving the user a thank you message.
+* Once subscribed the user will be directed to thankyou.html giving the user a thank you message for subscribing.
 * The user will be able to navigate out of the page through the navigation menu.<br>
 <br>
-<img src="./docs/newsletter.png">
+<img src="./docs/newsletter.png"><br>
+
+# Technologies Used 
+
+* <a href="https://en.wikipedia.org/wiki/HTML5" target=" _blank">HTML 5</a>
+* <a href="https://en.wikipedia.org/wiki/CSS" target=" _blank">CSS 3</a>
+* <a href="https://vscode.github.com/" target=" _blank">Visual Studio Code</a>
+* <a href="https://github.com/" target=" _blank">GitHub</a>
+* <a href="https://git-scm.com/" target=" _blank">Git</a>
+* <a href="https://fontawesome.com/" target=" _blank">Font Awesome</a>
+* <a href="https://fonts.google.com/about" target=" _blank">Google Fonts</a>
+* <a href="https://convertio.co/jpg-webp/" target=" _blank">Convertio</a>
+* <a href="https://tinypng.com/" target=" _blank">Tinypng</a>
+
+
