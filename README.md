@@ -52,7 +52,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 # Explore Page
 * This page offers an alternative to the user than hiking.<br>
-* Each section within this page gives the user other information about unique places and ativities within the Mourne Mountain region.<br>
+* Each section within this page gives the user other information about unique places and activities within the Mourne Mountain region.<br>
 * The Mourne Wall section gives the user information on the Mourne wall and its history.<br>
 * Silent Valley section offers the user information on the area and what facilities it has to offer to the user.<br>
 * Within the Mountain Bike section of this page it tells you where the popular places are, what type of trails are there and the facilities they offer.<br>
@@ -60,8 +60,8 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 <img src="./docs/mourne-wall.png">
 
 # E-Newsletter Page
-* This page offers the user to sign up to the monthly E-Newsletter.
-* Subscribing allows the user an oppertunity to win in a monthly phtography competion and also informs the user of active groups and events.
+* This page allows the user to sign up to the monthly E-Newsletter.
+* Subscribing offers the user an opportunity to win in a monthly photography competition and also informs the user of active groups and events.
 * The subscription form allows the user to subscribe and upload photos at the same time.
 * The subscription form consists of the following inputs:
   * First Name
@@ -111,7 +111,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
   * Safari
 
 ### Functions  
-* I have confirmed that all links within the nav bar all work and take the user to the correct page.
+* I have confirmed that all links within the nav bar work and take the user to the correct page.
   * I have tested this by clicking on each link and making sure it opens the correct page.
 
 * I have confirmed that the website is responsive with different screen sizes. 
@@ -123,31 +123,31 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 * I have confirmed all external links open in a new tab and direct the user to the external site.
   * I have tested this by clicking on each link and checking it opens a new tab which goes to the correct external site. 
 
-* I have confimed the footer icons are all readable and clear to understand and that they got to the correct site.
+* I have confimed the footer icons are all readable and clear to understand and that they go to the correct site.
   * I have tested this by clicking on the social media icons which open a new tab/app to the correct site.
 
 * I have confirmed that the subscription form is responsive and working on all devices.
   * I have tested this by using the devtools to change the screen size, I also checked it worked on two mobile devices.
 
-* I have confirmed that input is only required for personal information but not for reasons for subscribing and uploading photos for the monthly competition.
-  * I have tested this by not adding an input to the required fields and click subscribe. As expected please fill in this field appears after clicking subscribe
+* I have confirmed that the input is only required for personal information but not for reasons for subscribing and uploading photos for the monthly competition.
+  * I have tested this by not adding an input to the required fields and click subscribe. As expected please "fill in this field" appears after clicking subscribe
 
 * I have confirmed that the subscribe button works and takes the user to the thankyou.html page.
   * I have tested this by adding all the correct inputs into the form and clicked subscribe which took me to the the thankyou.html page.
 
 * I have confirmed that the reset button works with the form.
-   * I have tested this by adding inputs to the form and then clicking reset. As expected the inputs are reset.
+   * I have tested this by adding inputs to the form and then clicking reset. The inputs are reset as expected.
 
 
 ### Solved Bugs
  * During validation testing I discovered my best performance score was lower on some of the pages.
  * I discovered this was because my image files were too large.
- * I resolved the issue by compressing the images and converting some to .webp files. 
+ * I resolved the issue by compressing the images and converting certain images to .webp files. 
 
 ### Unfixed bugs 
- * During testing on different mobile browsers I found that when viewing the site on safari mobile brower you have to hold you finger on the menu icon for a second before the drop down apears.
- * This does not happen on the other mobile browsers I have tested the site on. This is a Safari issue with reading CSS.
- * In a normal circumstance Javascript would be used to create the dropdown menu.
+ * During testing on different mobile browsers I found that when viewing the site on Safari mobile brower you must hold the menu icon for a second before the drop down apears.
+ * This does not happen on other mobile browsers tested. This is a Safari issue with reading CSS.
+ * In normal circumstances, Javascript can be used to create the dropdown menu.
 
 ### Validator Testing 
 
@@ -158,7 +158,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
  ### Lighthouse Testing 
 
-* I have confirmed that each page within the site has colors and fonts that were chosen are easy to read and accessible by running it through lighthouse in devtools.
+* I have confirmed that on each page, the colours and fonts of the site were chosen to be easy to read and accessible by running it through lighthouse in devtools.
  * index.html:
  <br>
 <img src="./docs/index-lh.png">
@@ -178,7 +178,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 # Deployment 
 
 * Explore The Mournes was deployed using GitHub pages:
- * Within the repository go to settings.
+ * Within the repository, go to settings.
  * Scroll down to Pages.
  * Select the Main branch.
  * Click save.
@@ -200,7 +200,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 * https://rgbacolorpicker.com/
 * https://app.grammarly.com/
 
-All images that have been used are credited to their owner and the links to the images can found below. 
+All images that have been used are credited to their owners and the links to the images can found below. 
 
 ### Index.html:
 
