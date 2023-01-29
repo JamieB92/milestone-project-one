@@ -175,3 +175,15 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 <br>
 <img src="./docs/newsletter-lh.png">  
 
+# Deployment 
+
+* Explore The Mournes was deployed using GitHub pages:
+ * Within the repository go to settings.
+ * Scroll down to Pages
+ * Select the Main branch
+ * Click save 
+ * Page will refresh once site is published. 
+ * It will now show the live avtive site.
+ 
+ The live link to Explore the Mournes can be found at: 
+ https://jamieb92.github.io/milestone-project-one/
