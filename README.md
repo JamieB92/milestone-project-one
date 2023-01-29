@@ -191,7 +191,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
  # Credits
 
  ## Content:
-* love running project
+* Love Running project
 * https://www.w3schools.com
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * https://color.adobe.com/
