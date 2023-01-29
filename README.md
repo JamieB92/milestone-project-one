@@ -190,11 +190,19 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
  # Credits
 
- ## Media
+ ## Content:
+* love running project
+* https://www.w3schools.com
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://color.adobe.com/
+* https://fontawesome.com/
+* https://fonts.google.com
+* https://rgbacolorpicker.com/
+* https://app.grammarly.com/
 
 All images that have been used are credited to their owner and the links to the images can found below. 
 
-### Index.html
+### Index.html:
 
 * https://www.flickr.com/photos/makeart67/48803676491/in/photolist-2hmBAJ8-28FDauo-NMCPPG-pjNUJM-2hDGpx9-LV92cA-PRCk4u-ei5k4A-H42wv2-RJB6WG-2naVRYP-icqGSg-Gwpmb1-mp8ZnD-2m83jLG-axs5bK-NeQfdF-LWzVkx-21n1hqF-2j7tbBV-2i4mUWX-2naXfTa-t93hYC-2nannid-2iGh9bP-bjRqF5-V4WdhE-2dNqDd4-2kHfyPx-MQ9q6-2nNyhZa-29p3D7a-2m7Zsrb-S6bN1m-2iKNVnc-LEHUHk-RZFksQ-NCQSVU-2kCeoZv-NSZ9BR-2kPnEkz-2grksrN-zHpRcF-DRbXEc-ajrFoR-P3Wbfi-2keXkAB-2ntADaw-2nK4yWA-2kKCMxQ
 
@@ -203,8 +211,22 @@ All images that have been used are credited to their owner and the links to the 
 * https://www.pexels.com/photo/clear-footed-glass-beside-bowl-370984/
 
 
-### mountains.html 
+### mountains.html:
+#### Content
+* https://en.wikipedia.org/wiki/Mourne_Mountains
+* https://trekni.com/2020/10/27/hiking-the-mournes-big-eight/
+* https://en.wikipedia.org/wiki/Slieve_Donard
+* https://www.summitpost.org/slieve-donard/923635
+* https://en.wikipedia.org/wiki/Slieve_Commedagh
+* https://www.mudandroutes.com/routes/walk-up-slieve-commedagh-via-glen-river/
+* https://en.wikipedia.org/wiki/Slieve_Binnian
+* https://www.mudandroutes.com/routes/walk-up-slieve-bearnagh/
+* https://niexplorer.com/latest/slieve-bearnagh-mourne-mountains
+* https://www.mourne-mountains.com/mournes/mountains/slievelamagan/
+* https://www.theirishroadtrip.com/slieve-meelmore-and-meelbeg-walk/
 
+
+#### Images
 * https://www.flickr.com/photos/32071882@N02/9131322803/in/photolist-eUUq94-qHGYNj-BFVKcp-4ptoFo-CvuAPL-9xvh4s-oZN1tM-zLVpUR-9fiwni-faHpq-Fo85g9-P6fS7n-7QPQQ3-oNUSbN-74XDkc-Lp7g9k-fxT75q-4LgCRn-f1mZSe-cwRHvJ-7JNSQ2-9xs9ND-soEyU-bTRrF-pYh3zb-6pYREv-ihbqPc-Yi8kbx-CF3ENx-22ySgUc-84eR8M-Q7XmPq-dcr1oC-JWQxDU-AfW5jp-oY2ZCh-kwvHFQ-9wucze-27EmMLJ-sbvKhU-oQgKWQ-QnggDP-QJUdbo-oyC3C7-FYUoRB-Lp7gw4-pjiYtJ-5MQ6NH-oY2LTQ-HHxWqD
 
 * https://www.flickr.com/photos/99577751@N03/14126400512/in/photolist-nwiuHw-21FqVJ2-JnXycx-T2msTh-G6J8YR-bxuj9t-2gkwCEx-nsMUQN-FMtWB6-JiQDu-hgqRig-Y2pzeX-4BALGc-uph7us-xRHLPa-J4mfUL-SyiSNF-8Nz29J-xmY53Y-7srV8d-28idMGa-nAxNn-25Z6cXS-nAxPY-ywXiPa-MxphdN-6qwX5m-dy1LAR-28idNVc-ozaJWR-4Auec2-mo8Huv-mjyTwD-61XfJQ-iUvHYj-CZnoTu-9Yuwcp-aPBgXi-EuaPEU-fdNBTy-9vyfX9-jnBsfF-ohWDtC-8nhuDY-Zwb7tk-xRH1xW-raNLrD-7kQTzd-2nZoeXt-bctouP
@@ -221,10 +243,20 @@ All images that have been used are credited to their owner and the links to the 
 
 * https://www.flickr.com/photos/22745413@N05/21351209228/in/photolist-ywJwD3-efN1W1-21m9AoK-oiGFCA-2kCLk4U-QwptB6-ejjRQ6-2krgiAN-2krc1DW-MqZSfP-22UEgU9-23oezts-a7QwGj-FhdJWp-24dDJUD-2krgjvt-yPkice-2kSBVt2-2kCLk6Y-F8MRyB-WMsjaQ-2kCquDm-2nCBz6o-G8Ee32-yJogN3-yQ71XM-FuLrgs-Sn4DbX-d9zyxf-2kCuzZH-d9A3ms-2kJW2sF-mjyTwD-Rw3W5b-2hgYXH7-CBZ9iu-yNkXGU-ed57Y4-Qjk3oF-jkGQdQ-27hzH6A-q4KAx7-2krgiYM-81a6Na-2krfQVC-RyjKE1-ff8zqB-p2zwkm-2kCQVxS-pXg2nY
 
-### explore.html
+### explore.html:
+#### Content
+* https://en.wikipedia.org/wiki/Mourne_Wall
 
+* https://en.wikipedia.org/wiki/Silent_Valley_Reservoir
+
+* https://www.mountainbikeni.com/rostrevor/
+
+* https://www.mountainbikeni.com/castlewellan/
+
+* https://www.mountainbikeni.com/tollymore-skills-course/
+
+#### Images
 * https://www.flickr.com/photos/29093195@N06/35924149055/in/photolist-VuGdyF-NJXF5S-KTp6Sb-279EK7v-bZCVoW-WJuDWg-q5MKzd-WWUfpK-21bnBtL-naqU1Y-TQgXRi-q3mVRM-UAnHVd-XsRMQJ-Y4GiA1-UAntyC-NKKbSh-TB7szB-UD9YNB-Ymh3VK-UQE2DB-Yvioj4-29MXvX1-UfEVdh-T77wTj-26ru3bW-29MXw81-29v4fKZ-27bbDJh-2aazvNm-2aTriPg-288zMrJ-TQgYsP-Tyf1ey-Ymhrda-2aTrh5K-288ARfy-YQmgJp-P7Pyh-Y5J2Ab-24uBb2h-TA6qGh-TquWV6-YvioTv-TyeSGu-27yEVRH-YBGJRz-21HaZJm-YjQmuP
-
 
 * https://www.flickr.com/photos/97808269@N06/24257832985/in/photolist-CXzJBK-d7byK3-2gP6LeX-2nGviJw-ZSGWkt-ac8FAs-2ntJJxT-2koFL8R-2jkSk7D-2ndQoXB-qY4QHy-2jT4w2R-Nw57pJ-pEV1os-2cCHZUu-EZrf3d-2mY6GfG-2nRGkLP-Y2SfLa-NthbME-GL1cJF-2n51uKf-2k4ymA8-2iYCUws-2b1Bhqr-214Um33-2myh22U-2ewsXuS-2grhzJZ-2jN6iHc-2kxVnib-2npNwGA-a1M5A8-2iYzsJc-FtLEgy-8B2zTT-2mnPPBZ-2kRDg6G-2mM5bqt-26AXXEb-2kx2uQs-7cWjP3-2iV2FHd-247RzTj-2nGuuvN-2m6m1FW-2jM5AY4-DETRVS-2myq4NM-2o52DCb
 
