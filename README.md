@@ -179,9 +179,9 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 * Explore The Mournes was deployed using GitHub pages:
  * Within the repository go to settings.
- * Scroll down to Pages
- * Select the Main branch
- * Click save 
+ * Scroll down to Pages.
+ * Select the Main branch.
+ * Click save.
  * Page will refresh once site is published. 
  * It will now show the live active site.
  
