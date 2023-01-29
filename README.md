@@ -110,6 +110,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
   * Firefox 
   * Safari
 
+### Functions  
 * I have confirmed that all links within the nav bar all work and take the user to the correct page.
 
 * I have confirmed that the website is responsive with different screen sizes by testing on different devices and using the devtools within the browser.
@@ -124,8 +125,6 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 * I have confirmed that once the user has subscribed it directs the user to a thank you page.
 
-
-### Bugs
 
 ### Solved Bugs
  * During validation testing I discovered my best performance score was lower on some of the pages.
