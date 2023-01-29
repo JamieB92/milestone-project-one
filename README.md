@@ -130,7 +130,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 * Unfixed bugs 
  * During testing on different mobile browsers I found that when viewing the site on safari mobile brower you have to hold you finger on the menu icon for a second before the drop down apears.
  * This does not happen on the other mobile browsers I have tested the site on. This is a Safari issue with reading CSS 
- * In a noraml situation I would you JavaScript to create this function
+ * In a normal situation I would you JavaScript to create this function.
 
 ### Validator Testing 
 
