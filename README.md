@@ -112,18 +112,31 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 ### Functions  
 * I have confirmed that all links within the nav bar all work and take the user to the correct page.
+ * I have tested this by clicking on each link and making sure it opens the correct page.
 
-* I have confirmed that the website is responsive with different screen sizes by testing on different devices and using the devtools within the browser.
+* I have confirmed that the website is responsive with different screen sizes. 
+ * I tested this by using different mobile devices and using the devtools within the browser to re-create different screen sizes.
 
 * I have confirmed that the navigation menu title and text are all readable. They are all clear and easy to understand. 
+  * I have tested this through lighthouse. 
 
 * I have confirmed all external links open in a new tab and direct the user to the external site.
+ * I have tested this by clicking on each link and checking it opens a new tab which goes to the correct external site. 
 
-* I have confimed the footer icons are all readable and clear to understand. I also confirm that the social media icons open a new tab/app to the correct site.
+* I have confimed the footer icons are all readable and clear to understand and that they got to the correct site.
+ * I have tested this by clicking on the social media icons which open a new tab/app to the correct site.
 
-* I have confirmed that the subscription form works and is responsive on all devices. Input is required for personal information but not for reasons for subscribing and uploading photos for the monthly competition.
+* I have confirmed that the subscription form is responsive and working on all devices.
+ * I have tested this by using the devtools to change the screen size, I also checked it worked on two mobile devices.
 
-* I have confirmed that once the user has subscribed it directs the user to a thank you page.
+* I have confirmed that input is only required for personal information but not for reasons for subscribing and uploading photos for the monthly competition.
+ * I have tested this by not adding an input to the required fields and click subscribe. As expected please fill in this field appears after clicking subscribe
+
+* I have confirmed that the subscribe button works and takes the user to the thankyou.html page.
+ * I have tested this by adding all the correct inputs into the form and clicked subscribe which took me to the the thankyou.html page.
+
+* I have confirmed that the reset button works with the form.
+ I have tested this by adding inputs to the form and then clicking reset. As expected the inputs are reset.
 
 
 ### Solved Bugs
@@ -161,3 +174,4 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 *  newsletter.html :
 <br>
 <img src="./docs/newsletter-lh.png">  
+
