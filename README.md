@@ -92,6 +92,11 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
 
 # Testing 
 
+### Mobie Devices Used For Testing:
+* Iphone 13 pro Max 
+* Ipad 8th Gen 
+
+
 #### Desktop
 * I tested that each page on the site works on:
  * Chrome
