@@ -183,7 +183,7 @@ Explore The Mournes is a website that informs users about the Mourne Mountain ar
  * Select the Main branch
  * Click save 
  * Page will refresh once site is published. 
- * It will now show the live avtive site.
+ * It will now show the live active site.
  
  The live link to Explore the Mournes can be found at: 
  https://jamieb92.github.io/milestone-project-one/
